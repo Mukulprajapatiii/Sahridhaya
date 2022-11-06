@@ -4,3 +4,6 @@ Sahridhaya is a user-enabled platform that aids government organization to make 
 <br><br>
 SAHRIDHAYA will lead to Healthy India which in turn increase productivity of Indians. High productivity means High earning potential. In short we can say healthy body is directly proportional to earning potential. A healthy auto driver can work for 12 hours a day from existing 8 hours thus can earn 50% more.</h3>
 
+SPHERON DEPLOY : [sahridhaya.spheron.app](https://spheron.mypinata.cloud/ipfs/QmUZd2ujzihn5mRib58Uq3CvVq2ixTiqZyitaiHRhEJWsC)
+
+Google map API : [SAH_Gmaps.app](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder/#q%3D29.916852%252C-25.664062)
